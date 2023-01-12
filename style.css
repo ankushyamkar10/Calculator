@@ -10,15 +10,14 @@ body {
 .main {
   margin: 100px auto;
   background-color: rgb(0, 0, 0);
-  height: 600px;
-  width: 300px;
+  height: 575px;
+  width: 280px;
   border: 5px solid rgb(0, 0, 0);
 }
 
 .screen {
   background-color: rgb(128, 157, 128);
   height: 175px;
-  width: 290 px;
   margin: 5px;
   margin-bottom: 0;
   font-size: xx-large;
@@ -27,7 +26,7 @@ body {
 }
 .answer {
   height: 40px;
-  width: 290px;
+  width: 270px;
   margin: 0 0 5px 5px;
   background-color: rgb(128, 157, 128);
   display: flex;
@@ -37,8 +36,8 @@ body {
 }
 
 .button {
-  width: 62px;
-  height: 25px;
+  width: 57px;
+  height: 20px;
   background-color: rgb(126, 126, 175);
   margin: 5px;
   display: inline-block;
@@ -48,6 +47,6 @@ body {
 }
 
 .big {
-  width: 138px;
-  height: 25px;
+  width: 128px;
+  height: 20px;
 }
